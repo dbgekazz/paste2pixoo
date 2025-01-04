@@ -1,8 +1,4 @@
-Here’s a well-structured description for your app that you can use when posting it to GitHub. This description includes an overview, features, installation instructions, usage, and other relevant details to help users understand and use your app effectively.
-
----
-
-# Pixoo Image Controller
+# paste2pixoo
 
 A Python application to control and display images on a **Pixoo 64** device. This app allows you to paste images from your clipboard, save them to a "liked images" folder, and run a slideshow of saved images. It also includes a graphical user interface (GUI) and system tray integration for easy access.
 
@@ -23,8 +19,8 @@ A Python application to control and display images on a **Pixoo 64** device. Thi
 
 ## Screenshots
 
-![App Screenshot](screenshots/app_screenshot.png)  
-*Example: GUI of the Pixoo Image Controller.*
+![App Screenshot](screenshot.png)  
+*Example: GUI of the paste2pixoo.*
 
 ---
 
