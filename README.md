@@ -122,11 +122,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 - **Pillow, tkinter, and pystray**: For providing the tools to create a user-friendly GUI and system tray integration.
 
 ---
-
-## Support
-
-If you have any questions or need help, feel free to open an issue on GitHub or contact me at [your-email@example.com](mailto:your-email@example.com).
-
----
-
-This description provides a comprehensive overview of your app and makes it easy for users to understand, install, and use it. You can customize it further to suit your needs! Let me know if you need additional help.
