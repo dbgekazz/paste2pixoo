@@ -34,8 +34,8 @@ A Python application to control and display images on a **Pixoo 64** device. Thi
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pixoo-image-controller.git
-   cd pixoo-image-controller
+   git clone https://github.com/dbgekazz/paste2pixoo
+   cd paste2pixoo
    ```
 2. Install the required dependencies:
    ```bash
